@@ -4,13 +4,13 @@
 <dict>
 	<key>UIAppFonts</key>
 	<array>
-		<string>GmarketSansTTFBold.ttf</string>
-		<string>GmarketSansTTFMedium.ttf</string>
-		<string>GmarketSansTTFLight.ttf</string>
-		<string>NotoSansKR-Black.ttf</string>
-		<string>NotoSansKR-Bold.ttf</string>
-		<string>NotoSansKR-Regular.ttf</string>
-		<string>NotoSansKR-SemiBold.ttf</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
 	</array>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
